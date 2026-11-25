@@ -1,12 +1,13 @@
-# Cognifyz – Number Guessing Game
+
+# Cognifyz Number Guessing Game
 
 ## About the Project
-A simple Python-based Number Guessing Game developed as part of the Cognifyz Technologies Software Development Internship.
+A Python-based Number Guessing Game developed as part of the Cognifyz Technologies Software Development Internship.
 
 ## Features
 - Generates a random number between 1 and 10.
 - Accepts guesses from the user.
-- Checks whether the guess is correct, too high, or too low.
+- Provides hints when the guess is too high or too low.
 - Displays the correct answer.
 
 ## Technologies Used
@@ -27,6 +28,3 @@ python guessing_game.py
 
 ## Internship
 Cognifyz Technologies – Software Development Internship
-
-## Author
-Shivani Priya KS
